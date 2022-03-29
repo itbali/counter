@@ -1,6 +1,6 @@
 {
   "name": "monday",
-  homepage: "https://itbali.github.io/YназваниеРеппозитория(проекта)Y",
+  homepage: "https://itbali.github.io/counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
