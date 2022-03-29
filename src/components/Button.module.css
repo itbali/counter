@@ -1,0 +1,16 @@
+
+.button {
+    margin: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #61dafb;
+    color: #282c34;
+    font-size: 40px;
+
+}
+
+.button:disabled {
+    border: none;
+    border-radius: 3px;
+    opacity: 50%;
+}

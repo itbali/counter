@@ -1,0 +1,17 @@
+.default {
+    background-color: #61dafb;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: #282c34;
+    font-size: 40px;
+    padding: 20px;
+    }
+
+.error {
+    background-color: #712c2c;
+    border: 1px solid #ffe88b;
+    border-radius: 5px;
+    color: #ffe88b;
+    font-size: 40px;
+    padding: 20px;
+    }
